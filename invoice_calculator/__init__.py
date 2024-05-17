@@ -1,3 +1,3 @@
 # __init__.py
 
-from .invoice_calculator import ttc_calculate
+from .invoice_calculator import calculate_invoice
