@@ -7,7 +7,7 @@ setup(
     description='A simple invoice calculator',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/RedSn0w01/invoice_calculator.git',
+    url='https://github.com/RedSn0w01/invoice_ttc.git',
     author='aymen kherraz',
     author_email='ayman.kherraz73@gmail.com',
     classifiers=[
